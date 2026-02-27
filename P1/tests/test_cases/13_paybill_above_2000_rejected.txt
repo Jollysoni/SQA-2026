@@ -1,8 +1,0 @@
-login
-standard
-Sneh Patel
-paybill
-00101
-FI
-2000.01
-logout

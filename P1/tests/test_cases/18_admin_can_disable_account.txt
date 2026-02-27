@@ -1,6 +1,0 @@
-login
-admin
-disable
-Aryan Patel
-00401
-logout
