@@ -1,0 +1,8 @@
+login
+standard
+Mansi Kandoi
+paybill
+00201
+EC
+2000
+logout

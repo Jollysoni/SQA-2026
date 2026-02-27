@@ -1,0 +1,8 @@
+Enter session type (standard/admin):
+Enter account holder name:
+Login successful.
+Enter account number:
+Enter company code (EC/CQ/FI):
+Enter amount:
+ERROR: Invalid bill company.
+Logged out.

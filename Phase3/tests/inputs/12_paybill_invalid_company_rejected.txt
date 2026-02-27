@@ -1,0 +1,8 @@
+login
+standard
+Sneh Patel
+paybill
+00101
+ZZ
+10
+logout

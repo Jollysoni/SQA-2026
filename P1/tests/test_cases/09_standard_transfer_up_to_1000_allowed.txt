@@ -1,0 +1,8 @@
+login
+standard
+Mansi Kandoi
+transfer
+00201
+00101
+1000
+logout

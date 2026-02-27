@@ -1,0 +1,8 @@
+Enter session type (standard/admin):
+Enter account holder name:
+Login successful.
+Enter from account number:
+Enter to account number:
+Enter amount:
+ERROR: Standard transfer limit exceeded.
+Logged out.
