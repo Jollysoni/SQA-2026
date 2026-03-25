@@ -1,0 +1,6 @@
+login
+admin
+create
+New Client
+25
+logout

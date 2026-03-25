@@ -1,0 +1,7 @@
+login
+standard
+Sneh Patel
+withdrawal
+00102
+50
+logout

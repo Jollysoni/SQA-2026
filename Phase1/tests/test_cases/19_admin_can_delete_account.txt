@@ -1,0 +1,6 @@
+login
+admin
+delete
+Sneh Patel
+00102
+logout
