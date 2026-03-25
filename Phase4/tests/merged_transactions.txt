@@ -1,0 +1,7 @@
+04 Sneh Patel           00101 00050.00  
+01 Sneh Patel           00101 00010.00  
+03 Mansi Kandoi         00201 00025.00EC
+08 Jolly Soni           00301 00000.00  
+05 New Client           00000 00100.00  
+07 Aryan Patel          00401 00000.00  
+00 END_OF_SESSION       00000 00000.00  

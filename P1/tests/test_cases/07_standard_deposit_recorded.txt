@@ -1,7 +1,0 @@
-login
-standard
-Aryan Patel
-deposit
-00401
-120
-logout

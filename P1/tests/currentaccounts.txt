@@ -1,7 +1,0 @@
-00101 Sneh Patel           A 01200.00
-00102 Sneh Patel           A 00040.00
-00201 Mansi Kandoi         A 02500.00
-00202 Mansi Kandoi         D 00075.00
-00301 Jolly Soni           A 00010.00
-00401 Aryan Patel          A 00500.00
-00000 END_OF_FILE          A 00000.00

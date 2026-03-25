@@ -1,0 +1,8 @@
+00001 New Client           A 00100.00 0000 NP
+00101 Sneh Patel           A 01239.80 0002 NP
+00102 Sneh Patel           A 00040.00 0000 NP
+00201 Mansi Kandoi         A 02474.90 0001 NP
+00202 Mansi Kandoi         D 00075.00 0000 NP
+00301 Jolly Soni           A 00010.00 0000 NP
+00401 Aryan Patel          D 00500.00 0000 NP
+00000 END_OF_FILE          A 00000.00 0000 NP

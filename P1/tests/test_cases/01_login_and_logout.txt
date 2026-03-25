@@ -1,4 +1,0 @@
-login
-standard
-Sneh Patel
-logout

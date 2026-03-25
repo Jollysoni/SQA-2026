@@ -1,7 +1,0 @@
-withdrawal
-00101
-10
-login
-standard
-Sneh Patel
-logout
